@@ -1,1 +1,0 @@
-/Users/sebastian/Desktop/repos/global-json-trailing-comma/dpdbot-global-json/src/ExampleProject/bin/Debug/net9.0/ExampleProject
